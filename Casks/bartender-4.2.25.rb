@@ -1,4 +1,4 @@
-cask "bartender" do
+cask "bartender-4.2.25" do
   version "4.2.25"
   sha256 "7e594d4955808df139bc3aa4a408a8bacbfdb64e18970e843d381eadce487299"
 

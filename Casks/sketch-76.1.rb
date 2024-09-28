@@ -1,4 +1,4 @@
-cask "sketch" do
+cask "sketch-76.1" do
   version "76.1,130273"
   sha256 "3e86a9be50b84719a1fad0964febed4af5122a4f143b2dd9c4ddd166bcc1d977"
 
