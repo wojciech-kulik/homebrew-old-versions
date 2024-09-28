@@ -1,6 +1,6 @@
 cask "pcloud" do
   version "3.15.2,XZJPkU0Zsz7DuTM5Bb7YhYyHJJJmLQhdVorX"
-  sha256 "bea95927b9fbce1a369bb56cd8c99cf1911d1ef8543ed388010f3872b18aae9f"
+  sha256 "199bd79a1c93b00e0de4569159fb26d0c616190ce5a8c92d268300ffaf040fed"
 
   url "https://api.pcloud.com/getpubzip?code=#{version.after_comma}&filename=pcloud-#{version.before_comma}.zip"
   name "pCloud"
