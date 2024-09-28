@@ -9,6 +9,6 @@ cask "pcloud" do
 
   depends_on macos: ">= :big_sur"
 
-  pkg "pCloud Drive #{version} UNIVERSAL.pkg"
+  pkg "pCloud Drive #{version.before_comma} UNIVERSAL.pkg"
   uninstall pkgutil: "com.pcloud.pcloud.macos"
 end
