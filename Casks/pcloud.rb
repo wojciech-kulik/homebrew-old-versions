@@ -10,5 +10,7 @@ cask "pcloud" do
   depends_on macos: ">= :big_sur"
 
   pkg "pCloud Drive #{version.before_comma} UNIVERSAL.pkg"
-  uninstall pkgutil: "com.pcloud.pcloud.macos"
+  uninstall quit: "com.pcloud.pcloud.macos",
+            pkgutil: "com.pcloud.pcloud.macos",
+            delete: "/Applications/pCloud Drive.app"
 end
