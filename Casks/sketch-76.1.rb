@@ -7,7 +7,7 @@ cask "sketch-76.1" do
   desc "Digital design and prototyping platform"
   homepage "https://www.sketchapp.com/"
 
-  depends_on macos: ">= :mojave"
+  depends_on macos: ">= :big_sur"
 
   app "Sketch.app"
 
