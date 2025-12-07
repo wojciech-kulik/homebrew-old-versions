@@ -1,4 +1,4 @@
-cask "pcloud" do
+cask "pcloud-4.0.5" do
   version "4.0.5"
   sha256 "8f89b76e537780dc8b145eeebcbbb0fd76aadf9673daea41f6cf5389bfe89fee"
 
