@@ -2,7 +2,7 @@ cask "soundsource" do
   version "5.8.1"
   sha256 :no_check
 
-  url "https://rogueamoeba.com/legacy/downloads/SoundSource-5811.zip"
+  url "https://filedn.com/lWmDlJLTzQW8X1wRNNNUkyV/SoundSource-5811.zip"
   name "SoundSource"
   desc "Sound and audio controller"
   homepage "https://rogueamoeba.com/soundsource/"

@@ -1,8 +1,8 @@
 cask "pcloud" do
-  version "4.0.5,d3gz7dDhEVHefkyYOk51k0"
-  sha256 "bea95927b9fbce1a369bb56cd8c99cf1911d1ef8543ed388010f3872b18aae9f"
+  version "4.0.5"
+  sha256 "8f89b76e537780dc8b145eeebcbbb0fd76aadf9673daea41f6cf5389bfe89fee"
 
-  url "https://api.pcloud.com/getpubzip?code=#{version.after_comma}&filename=pcloud-#{version.before_comma}.zip"
+  url "https://filedn.com/lWmDlJLTzQW8X1wRNNNUkyV/pCloud%20Drive%204.0.5%20UNIVERSAL.pkg"
   name "pCloud"
   desc "pCloud"
   homepage "https://www.pcloud.com"

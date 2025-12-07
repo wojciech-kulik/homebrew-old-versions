@@ -1,8 +1,8 @@
 cask "sketch-76.1" do
-  version "76.1,130273"
+  version "76.1"
   sha256 "3e86a9be50b84719a1fad0964febed4af5122a4f143b2dd9c4ddd166bcc1d977"
 
-  url "https://download.sketchapp.com/sketch-#{version.before_comma}-#{version.after_comma}.zip"
+  url "https://filedn.com/lWmDlJLTzQW8X1wRNNNUkyV/sketch-76.1-130273.zip"
   name "Sketch"
   desc "Digital design and prototyping platform"
   homepage "https://www.sketchapp.com/"
