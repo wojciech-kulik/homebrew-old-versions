@@ -1,4 +1,4 @@
-cask "soundsource" do
+cask "soundsource-5.8.1" do
   version "5.8.1"
   sha256 :no_check
 
